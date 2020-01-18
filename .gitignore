@@ -1,0 +1,27 @@
+# Compiled source #
+###################
+# (Borrowed from Github: https://gist.github.com/octocat/9257657)
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# (Borrowed from Github: https://gist.github.com/octocat/9257657) 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# MATLAB-related #
+*.asv
+gtsam-toolbox-3.2.0-lin64
+gtsam-toolbox-3.2.0-mac64
+gtsam-toolbox-3.2.0-win64
